@@ -1,4 +1,4 @@
-# VlanLink
+# vlanLink
 Technology specific amendment to the Link class for documenting C-VLAN and S-VLAN networks
 
 ### [1.0.0-tsp.d.t](../../tree/tsp)
